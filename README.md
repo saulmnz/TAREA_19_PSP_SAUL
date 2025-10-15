@@ -4,7 +4,7 @@
 
 ---
 
-## CLASE CUENTA VOCALES ( IMPLEMENTA THREAD Y UTILIZA LA SINCRONIZACIÓN ) 🧠
+### CLASE CUENTA VOCALES ( IMPLEMENTA THREAD Y UTILIZA LA SINCRONIZACIÓN ) 🧠
 
 ```java
 
@@ -86,7 +86,7 @@ public class CuentaVocales extends Thread {
 
 ---
 
-## CLASE MAIN ( EJECUTOR DEL PROGRAMA ) 
+### CLASE MAIN ( EJECUTOR DEL PROGRAMA ) ⚙️
 
 ```java
 
